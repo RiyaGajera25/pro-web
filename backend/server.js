@@ -10,9 +10,6 @@ const authRoutes = require('../backend/routes/auth')
 const req = require('express/lib/request')
 
 
-
-
-
 //app
 const app = express()
 
